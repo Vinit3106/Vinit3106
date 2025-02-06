@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on projects related to data science, machine learning models, and data visualization  
 - 📫 How to reach me: vinit.kataria31@gmail.com 
 - 🌍 Pronouns: He/Him  
-- ⚡ Fun fact: I’ve represented my state cricket team back in India!  
+
 
 
 <!---
